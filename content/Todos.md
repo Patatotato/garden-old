@@ -5,21 +5,8 @@ tag:
 ---
 
 ## Work
-- [Personal Website](https://patato.live)
-	- Projects
-	- Reference scroll to
-	- More Links
-		- Twitch	
-		- Discord
-		- Garden
-
-- [Moeyly](https://moeyly.vercel.app)
-	- About me
-	- Hobbies
-		- Drawing
-		- Art
-		- Eating
-	- Favourite Food & Drinks
+- [patato.live](work/patato.live)
+- [Moeyly](work/moeyly)
 
 - Music Project
 	- Use Piano notes from Amm's DM
