@@ -1,5 +1,5 @@
 ---
-title: Digital Garden
+title: Potato Garden
 tags:
 - homepage
 ---
