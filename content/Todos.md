@@ -3,15 +3,33 @@ title: "To-do List"
 tag:
 - Todo
 ---
-- YT Vid
-	- Finish Script Writing
-	- Record
+
+## Work
 - [Personal Website](https://patato.live)
-	- Twitch
-	- Discord
-	- Garden
-	- Resumette
+	- Projects
+	- Reference scroll to
+	- More Links
+		- Twitch	
+		- Discord
+		- Garden
+
+- [Moeyly](https://moeyly.vercel.app)
+	- About me
+	- Hobbies
+		- Drawing
+		- Art
+		- Eating
+	- Favourite Food & Drinks
+
 - Music Project
-- [Light Touch](http://lighttouch.patato.live)
-	- Nginx SSL
-	- [Issues](https://github.com/PathonScript/LightTouch/issues)
+	- Use Piano notes from Amm's DM
+	- Autotune Lyrics
+
+- Elon Code
+	- Start by making moving images on Premiere Pro
+
+
+
+## Fun stuffs
+- Gameboy Advance Emulator
+	- Pokemon Emerald
