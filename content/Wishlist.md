@@ -18,10 +18,12 @@ What I want to buy and what I want to achieve in life
 
 # Goals
 Move out of Thailand
-- Canada
+- Netherlands
+- Norway
+- Switzerland
 - New Zealand
 - Australia
+- Sweden
 - England
-- Switzerland
 
 [Own a Tesla](https://tesla.com)
