@@ -5,7 +5,7 @@ tag:
 ---
 
 ## Work
-- [patato](patato.md)
+- [patato](work/patato.md)
 - [Moeyly](work/moeyly)
 
 - Music Project

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/Todos.md",
+            "file": "content/work/patato.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Todos.md",
+                "file": "content/work/patato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "665ef39af45b4090",
   "lastOpenFiles": [
-    "content/Todos.md",
     "content/work/patato.md",
+    "content/Todos.md",
     "content/work/moeyly.md",
     "content/_index.md",
     "content/custom keyboard.md",
