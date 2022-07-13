@@ -19,6 +19,7 @@ I made a [Youtube Playlist](https://www.youtube.com/playlist?list=PLRE2bmTCbJUZV
 
 ### Case and PCB
 - [Next Time 75 (Knob)](https://shopee.co.th/Next-Time-75-%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%84%E0%B8%84%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%AD%E0%B8%A5-Type-C-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A2-82-%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B9%8C-3Pin-5Pin-i.27124713.14781958175?sp_atk=672e88b5-c0c0-40cb-b055-573023687f70&xptdk=672e88b5-c0c0-40cb-b055-573023687f70)
+- [X75 75% PCB](https://shopee.co.th/%E3%80%90%C4%94%C4%95%E3%80%91%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%9B%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%99-X75-75-PCB-%E0%B8%AA%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%8A%E0%B9%8C%E0%B9%84%E0%B8%9F%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%84-RGB-led-type-c-Next-Time-75-i.805120658.18216990821?sp_atk=47794d46-ec01-46c6-808d-1c0671380eef&xptdk=47794d46-ec01-46c6-808d-1c0671380eef)
 - [Skyloong (Shopee)](https://shopee.co.th/คีย์บอร์ด-Skyloong-GK84XS-GK84-GK-ปุ่ม-ขนาด-75-Hotswap-Bluetooth-เคสพลาสติก-i.17216515.13750645009?sp_atk=c169fcc8-5af0-4280-b88e-c74e00f12fad&xptdk=c169fcc8-5af0-4280-b88e-c74e00f12fad)
 - [Sat75](https://shopee.co.th/คีย์บอร์ด-Skyloong-GK84XS-GK84-GK-ปุ่ม-ขนาด-75-Hotswap-Bluetooth-เคสพลาสติก-i.17216515.13750645009?sp_atk=c169fcc8-5af0-4280-b88e-c74e00f12fad&xptdk=c169fcc8-5af0-4280-b88e-c74e00f12fad)
 
