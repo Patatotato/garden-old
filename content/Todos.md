@@ -6,14 +6,14 @@ tag:
 
 ## Work
 
-- [Patato.live](work/patato)
-- [Moeyly](work/moeyly)
-- [Expose](work/expose)
 - Music Project
 	- Use Piano notes from Amm's DM
 	- Autotune Lyrics
 - Elon Code
 	- Start by making moving images on Premiere Pro
+- [Moeyly](work/moeyly)
+- [Patato.live](work/patato)
+- [Expose](work/expose)
 
 ## Fun stuffs
 - Gameboy Advance Emulator
