@@ -4,7 +4,6 @@ tags:
 - wishlist
 ---
 
-# About
 What I want on my custom keyboard
 
 ### Keycaps

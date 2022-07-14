@@ -4,7 +4,6 @@ tags:
 - webdev
 ---
 
-## About
 exposing a certain someone
 
 

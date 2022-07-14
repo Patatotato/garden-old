@@ -4,8 +4,9 @@ tag:
 - wishlist
 ---
 
-# About
 What I want to buy and what I want to achieve in life
+
+[Life Goals](Goals.md)
 
 ## Setup
 - Better Cable Extension
@@ -15,7 +16,3 @@ What I want to buy and what I want to achieve in life
 -  Phone
 -  Macbook
 -  [Custom Keyboard](custom%20keyboard.md)
-
-[Life Goals](Goals.md)
-
-[Own a Tesla](https://tesla.com)
