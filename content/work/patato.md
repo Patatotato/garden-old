@@ -5,13 +5,14 @@ tags:
 - personal
 ---
 
-A personal website telling what I do. Basically a portfolio website.
+A [personal website](https://patato.live)) telling what I do. Basically a portfolio website.
 
-- [Personal Website](https://patato.live)
-	- Projects
-	- Timeline of my coding journey
-	- Reference scroll to
-	- More Links
-		- Twitch	
-		- Discord
-		- Garden
+## Todo
+
+- [ ] Projects
+- [ ] Timeline of my coding journey
+- [ ] Reference scroll to
+- [ ] More Links
+- [ ] Twitch	
+- [ ] Discord
+- [ ] Garden
