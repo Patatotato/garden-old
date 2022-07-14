@@ -7,8 +7,6 @@ tags:
 
 A personal portfolio website for my friend Moey.
 
-- [Moeyly](https://moeyly.vercel.app)
-
 # Todo
 - [ ] About me
 - [ ] Hobbies
