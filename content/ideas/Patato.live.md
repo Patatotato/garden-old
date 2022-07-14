@@ -4,7 +4,7 @@ tags:
 - webdev
 - portfolio
 ---
-## About
+
 A personal website explaining what I do and learn about Pat
 
 ## What to do

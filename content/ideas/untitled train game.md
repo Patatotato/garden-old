@@ -4,9 +4,7 @@ tags:
 - gamedev
 ---
 
-## About 
 A game inspired by the Netflix Series **Snowpiercer**
-
 
 ## What to do
 - Basic Movement - Q/E Accelerate

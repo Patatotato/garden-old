@@ -5,6 +5,4 @@ tags:
 - theraphy
 ---
 
-## About
-
 Sit by the sea with your friends online

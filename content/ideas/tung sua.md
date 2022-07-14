@@ -4,7 +4,6 @@ tags:
 - webdev
 ---
 
-## About
 A web for booking what seat do you want at school.
 Kinda like in the theatre that you book a seat.
 

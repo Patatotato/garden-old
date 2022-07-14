@@ -4,9 +4,7 @@ tags:
 - webdev
 ---
 
-## About
 A simple burger shop game. Idea by [TacoShack Economy Discord Bot](https://tacoshack.dev/). Where you make / sell burgers and sell them. By time, you'll have automation and create restaurant chain like McDonalds.
-
 
 ## What to do
 - Creating / Selling burgers with time guage

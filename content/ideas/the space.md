@@ -5,7 +5,6 @@ tags:
 - theraphy
 ---
 
-## About
 A cozy website with a fireplace and a clock. Kinda like a studying website but for people who are sad. Built from Pat's desired ideal cozy place.
 
 ## What to do
