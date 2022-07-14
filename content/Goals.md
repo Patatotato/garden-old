@@ -8,12 +8,12 @@ What I want to achieve in my life.
 
 # Move out of Thailand
 
-## Options
+#### Options
 1. Somehow make enough money myself to move out (Unlikely)
 2. Get a job abroad somehow (less likely)
 3. Scholarships (more likely)
 
-## Countries I want go
+#### Countries I want go
 - BEAUTIFUL
   - nice trains
     - Netherlands
