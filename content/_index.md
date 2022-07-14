@@ -1,5 +1,5 @@
 ---
-title: Potato Garden
+title: 🥔 Potato Garden
 tags:
 - homepage
 ---
