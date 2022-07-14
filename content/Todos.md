@@ -14,6 +14,7 @@ tag:
 - [Moeyly](work/moeyly)
 - [Patato.live](work/patato)
 - [Expose](work/expose)
+- [ITS01](ideas/its01)
 
 ## Fun stuffs
 - Gameboy Advance Emulator
