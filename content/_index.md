@@ -3,7 +3,6 @@ title: Potato Garden
 tags:
 - homepage
 ---
-
 ## What's this
 A web to memorize instead of my brain, it was probably used for something called [Second Brain](https://garden.narze.live/Second-Brain/)
 

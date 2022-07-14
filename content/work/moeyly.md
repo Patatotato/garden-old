@@ -4,10 +4,15 @@ tags:
 - webdev
 ---
 
+A personal portfolio website for my friend Moey.
+
+
 - [Moeyly](https://moeyly.vercel.app)
-	- About me
-	- Hobbies
-		- Drawing
-		- Art
-		- Eating
-	- Favourite Food & Drinks
+
+# Todo
+- [ ] About me
+- [ ] Hobbies
+  - [ ]  Drawing
+  - [ ]  Art
+  - [ ]  Eating
+- [ ] Favourite Food & Drinks
