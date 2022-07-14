@@ -2,6 +2,7 @@
 title: "Patato.live"
 tags:
 - webdev
+- personal
 ---
 
 A personal website telling what I do. Basically a portfolio website.

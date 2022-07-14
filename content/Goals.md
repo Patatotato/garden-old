@@ -1,0 +1,30 @@
+---
+title: "Life Goals"
+tags:
+- personal
+---
+# 1. Move out of Thailand
+
+## Options
+1. Somehow make enough money myself to move out (Unlikely)
+2. Get a job abroad somehow (less likely)
+3. Scholarships (more likely)
+
+---
+
+## Countries I want go
+- BEAUTIFUL
+  - nice trains
+    - Netherlands
+    - Norway 
+    - Switzerland 
+    - Sweden 
+  - New Zealand (Friendly People)
+- GOOD
+  - Australia
+  - Canada (Friendly People)
+  - Singapore
+- NO OTHER CHOICE
+  - USA
+  - England
+  - China

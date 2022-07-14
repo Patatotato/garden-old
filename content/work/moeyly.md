@@ -2,6 +2,7 @@
 title: "Moeyly"
 tags: 
 - webdev
+- personal
 ---
 
 A personal portfolio website for my friend Moey.
