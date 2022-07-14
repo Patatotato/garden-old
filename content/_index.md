@@ -4,7 +4,7 @@ tags:
 - homepage
 ---
 ## What's this
-A web to memorize instead of my brain, it was probably used for something called [Second Brain](https://garden.narze.live/Second-Brain/)
+A web to memorize instead of my brain, I'm trying to make it a [Second Brain](https://garden.narze.live/Second-Brain/). But for now, it's just a simple note website for me.
 
 ## Start Here
 - [Todo List](Todos.md)
