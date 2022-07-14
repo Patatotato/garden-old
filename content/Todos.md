@@ -6,8 +6,9 @@ tag:
 
 ## Work
 
-- [Patato.live](work/patato.md)
+- [Patato.live](work/patato)
 - [Moeyly](work/moeyly)
+- [Expose](work/expose)
 - Music Project
 	- Use Piano notes from Amm's DM
 	- Autotune Lyrics
