@@ -5,7 +5,7 @@ tags:
 - personal
 ---
 
-A [personal website](https://patato.live)) telling what I do. Basically a portfolio website.
+A [personal website](https://patato.live) telling what I do. Basically a portfolio website.
 
 ## Todo
 
