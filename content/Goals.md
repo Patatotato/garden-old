@@ -16,7 +16,7 @@ What I want to achieve in my life.
 #### Countries I want go
 - BEAUTIFUL
   - nice trains
-    - Netherlands
+    - [Netherlands](blogs/netherlands.md)
     - Norway 
     - Switzerland 
     - Sweden 

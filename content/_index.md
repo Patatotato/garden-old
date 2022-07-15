@@ -10,5 +10,6 @@ A web to memorize instead of my brain, I'm trying to make it a [Second Brain](ht
 - [Todo List](Todos.md)
 - [Project Ideas](ideas)
 - [Wishlist](Wishlist.md)
+- [Blogs](blogs)
 
 > inspired by [Narze's Digital Garden](https://garden.narze.live)
