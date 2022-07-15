@@ -10,6 +10,7 @@ A [personal website](https://patato.live) telling what I do. Basically a portfol
 ## Todo
 
 - [ ] Projects
+- [ ] Languages I speak
 - [ ] Timeline of my coding journey
 - [ ] Reference scroll to
 - [ ] More Links
