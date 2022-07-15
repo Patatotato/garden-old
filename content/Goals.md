@@ -25,7 +25,7 @@ What I want to achieve in my life.
   - Australia
   - Canada (Friendly People)
   - Singapore
-- NO OTHER CHOICE
+- [NO OTHER CHOICE](blogs/nogo.md)
   - USA
   - England
   - China
