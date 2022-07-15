@@ -38,3 +38,7 @@ Flowers. Yes. **BEAUTIFUL**.
 
 # Food
 I haven't tried food there yet. My asian tongue may not like it.
+
+# Language
+
+I can't speak Deutsch.
