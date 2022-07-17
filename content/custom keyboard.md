@@ -13,6 +13,8 @@ What I want on my custom keyboard
 
 ### Switches
 - [Tangerine](https://ilumkb.com/products/c3-tangerine-switch?_pos=1&_sid=eb72c65cd&_ss=r)
+- [Alpacas](https://ilumkb.com/products/alpaca-linears?_pos=1&_sid=ca4aad503&_ss=r)
+
 
 I made a [Youtube Playlist](https://www.youtube.com/playlist?list=PLRE2bmTCbJUZVjJ9zz9qzM2X1tIJVyIhU) to cross them down.
 
