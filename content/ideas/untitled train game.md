@@ -2,6 +2,7 @@
 title: "Untitled Train Game"
 tags:
 - gamedev
+- trains
 ---
 
 A game inspired by the Netflix Series **Snowpiercer**
