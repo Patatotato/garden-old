@@ -16,4 +16,5 @@ What I want to buy and what I want to achieve in life
 -  Phone
 -  Macbook
 -  [Custom Keyboard](custom%20keyboard.md)
+-  [VR Oculus](https://store.facebook.com/quest/)
 -  [Clockwork Gameshell](https://www.clockworkpi.com/gameshell)
