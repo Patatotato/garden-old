@@ -16,3 +16,4 @@ What I want to buy and what I want to achieve in life
 -  Phone
 -  Macbook
 -  [Custom Keyboard](custom%20keyboard.md)
+-  [Clockwork Gameshell](https://www.clockworkpi.com/gameshell)
