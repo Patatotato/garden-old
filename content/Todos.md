@@ -7,8 +7,8 @@ tag:
 ## Work
 
 - Music Project
-	- Use Piano notes from Amm's DM
-	- Autotune Lyrics
+	- [x] Use Piano notes from Amm's DM
+	- [ ] Autotune Lyrics
 - Elon Code
 	- Start by making moving images on Premiere Pro
 - [Moeyly](work/moeyly)
