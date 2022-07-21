@@ -42,3 +42,7 @@ I haven't tried food there yet. My asian tongue may not like it.
 # Language
 
 I can't speak Dutch.
+
+# Kinda expensive
+
+Netherlands is expensive = less money
