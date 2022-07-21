@@ -13,4 +13,4 @@ Kinda like in the theatre that you book a seat.
 
 <br>
 
-![Theatre Ticket Selector](/content/images/theatre.png)
+![Theatre Ticket Selector](../images/theatre.png)

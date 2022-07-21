@@ -11,7 +11,7 @@ What I want to buy and what I want to achieve in life
 ## Setup
 - Better Cable Extension
 - Headphones with a spring cord
-![Spring Wire](/content/images/springwire.jpg)
+![Spring Wire](./images/springwire.jpg)
 - Second Monitor
 -  Phone
 -  Macbook
