@@ -6,6 +6,14 @@ tag:
 
 ## Work
 - **Study for the Exam**
+	- [ ] Thai Science
+	- [ ] Thai Math
+	- [ ] English Math
+	- [ ] English Physics
+	- [ ] English Chemistry
+	- [ ] Chinese Language
+	- [ ] HSK
+	- [ ] *maybe* Thai Language
 - [ ] Music Project
 	- [x] Use Piano notes from Amm's DM
 	- [ ] Autotune Lyrics
