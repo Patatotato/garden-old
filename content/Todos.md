@@ -6,7 +6,7 @@ tag:
 
 ## Work
 - **Study for the Exam**
-	- [ ] Thai Science
+	- [x] Thai Science
 	- [ ] English Math
 	- [ ] English Chemistry
 	- [ ] Chinese Language
