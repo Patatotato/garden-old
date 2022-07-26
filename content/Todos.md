@@ -24,6 +24,7 @@ tag:
 
 ## Coding
 - Create a personal Discord Bot
+- [Timewheel](./ideas/timewheel.md)
 - [ ] Learn Vue.js and NuxtJS
 - [Communiquette](ideas/communiquette.md)
 - [Patato.live](work/patato) with VueJS and NuxtJS
