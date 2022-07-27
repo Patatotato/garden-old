@@ -6,6 +6,8 @@ tags:
 
 What I want on my custom keyboard
 
+### Prebuilt
+- [Keychron V1](https://www.keychron.com/products/keychron-v1-qmk-via-custom-mechanical-keyboard)
 ### Keycaps
 - [Salmon](https://shopee.co.th/135-คีย์-Salmon-Keycap-MDA-Profile-PBT-Dye-Sub-เชิงกล-คีย์บอร์ด-Keycaps-i.502998302.13687096581?sp_atk=2ba6d836-1b7f-402e-9229-a69d3e875936&xptdk=2ba6d836-1b7f-402e-9229-a69d3e875936)
 - [Planets](https://shopee.co.th/126-คีย์-Planet-Keycap-XDA-Profile-อะนิเมะ-PBT-DYE-SUB-แป้นพิมพ์แบบกลไก-Keycaps-i.502998302.15279187214?sp_atk=c946cd12-0e8d-4b71-b57a-e9d9286b293e&xptdk=c946cd12-0e8d-4b71-b57a-e9d9286b293e)
