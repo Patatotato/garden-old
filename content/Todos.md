@@ -1,7 +1,7 @@
 ---
 title: "To-do List"
 tag:
-- Todo
+- todo
 ---
 
 ## Work

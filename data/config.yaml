@@ -1,6 +1,6 @@
 name: Patato
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -8,8 +8,8 @@ enableCodeBlockCopy: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: false
+enableRecentNotes: true
+enableGitHubEdit: true
 GitHubLink: https://github.com/pathonscript/garden
 description:
   Pat's trying to build a second brain. In reality, it's just a web for him to write down stuffs.
