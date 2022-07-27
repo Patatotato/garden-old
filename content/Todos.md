@@ -6,19 +6,23 @@ tag:
 
 ## Work
 - **Study for the Exam**
-	- [x] Thai Science
-	- [ ] English Math
-	- [ ] English Chemistry
-	- [ ] Chinese Language
 	- [ ] English Physics
 	- [ ] HSK
 	- [ ] Thai Math
 	- [ ] *maybe* Thai Language
+	- [x] Thai Science
+	- [x] English Math
+	- [x] English Chemistry
+	- [x] Chinese Language
+
 - [ ] Music Project
-	- [x] Use Piano notes from Amm's DM
+	- [ ] Finish adding subtitles
 	- [ ] Autotune Lyrics
-- Elon Code
-	- Start by making moving images on Premiere Pro
+	- [x] Use Piano notes from Amm's DM
+- Stuck on Code
+	- make small projects
+	- seek help
+	- communities
 
 ---
 
