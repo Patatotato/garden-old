@@ -1,6 +1,6 @@
 name: Patato
 enableToc: true
-openToc: flase
+openToc: false
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
