@@ -14,6 +14,7 @@ What I want on my custom keyboard
 - [Cute cat idk](https://shopee.co.th/127-คีย์-Graffiti-Keycap-XDA-Profile-Doodle-อะนิเมะ-PBT-Dye-Sub-เชิงกล-คีย์บอร์ด-Keycaps-i.502998302.17847402201?sp_atk=48fe32ad-61c3-4b55-9b8c-0c284df4fdda&xptdk=48fe32ad-61c3-4b55-9b8c-0c284df4fdda)
 
 ### Switches
+- [Gateron Ink Black](https://www.youtube.com/watch?v=yZhEwYqJabw)
 - [Tangerine](https://ilumkb.com/products/c3-tangerine-switch?_pos=1&_sid=eb72c65cd&_ss=r)
 - [Alpacas](https://ilumkb.com/products/alpaca-linears?_pos=1&_sid=ca4aad503&_ss=r)
 

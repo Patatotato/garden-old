@@ -33,7 +33,6 @@ tag:
 	- [Youtube](https://www.youtube.com/watch?v=ouncVBiye_M&t)
 	- SCSS
 	- [Anime.js](https://animejs.com/))
-	
 - [Communiquette](ideas/communiquette.md)
 - [Patato.live](work/patato) with VueJS and NuxtJS
 - [ITS01](ideas/its01)
