@@ -5,15 +5,7 @@ tag:
 ---
 
 ## Work
-- **Study for the Exam**
-	- [ ] English Physics
-	- [ ] HSK
-	- [ ] Thai Math
-	- [ ] *maybe* Thai Language
-	- [x] Thai Science
-	- [x] English Math
-	- [x] English Chemistry
-	- [x] Chinese Language
+
 
 - [ ] Music Project
 	- [ ] Finish adding subtitles
@@ -23,6 +15,15 @@ tag:
 	- make small projects
 	- seek help
 	- communities
+- ~~Study for the Exam~~
+	- [x] English Physics
+	- [x] HSK
+	- [x] Thai Math
+	- [x] *maybe* Thai Language
+	- [x] Thai Science
+	- [x] English Math
+	- [x] English Chemistry
+	- [x] Chinese Language
 
 ---
 
