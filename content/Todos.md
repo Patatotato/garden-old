@@ -5,29 +5,15 @@ tag:
 ---
 
 ## Work
-
-
-- [ ] Music Project
-	- [ ] Finish adding subtitles
-	- [ ] Autotune Lyrics
-	- [x] Use Piano notes from Amm's DM
 - Stuck on Code
 	- make small projects
 	- seek help
 	- communities
-- ~~Study for the Exam~~
-	- [x] English Physics
-	- [x] HSK
-	- [x] Thai Math
-	- [x] *maybe* Thai Language
-	- [x] Thai Science
-	- [x] English Math
-	- [x] English Chemistry
-	- [x] Chinese Language
-
+- [Clippy](ideas/clippy)
 ---
 
 ## Coding
+
 - Create a personal Discord Bot
 - [Timewheel](./ideas/timewheel.md)
 - Frontend
