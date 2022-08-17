@@ -7,6 +7,7 @@ tags:
 What I want on my custom keyboard
 
 ### Prebuilt
+- [Keychron Q1 ( Shell White )](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard?variant=39899009122393)
 - [Keychron V1](https://www.keychron.com/products/keychron-v1-qmk-via-custom-mechanical-keyboard)
 ### Keycaps
 - [Salmon](https://shopee.co.th/135-คีย์-Salmon-Keycap-MDA-Profile-PBT-Dye-Sub-เชิงกล-คีย์บอร์ด-Keycaps-i.502998302.13687096581?sp_atk=2ba6d836-1b7f-402e-9229-a69d3e875936&xptdk=2ba6d836-1b7f-402e-9229-a69d3e875936)
@@ -17,7 +18,6 @@ What I want on my custom keyboard
 - [Gateron Ink Black](https://www.youtube.com/watch?v=yZhEwYqJabw)
 - [Tangerine](https://ilumkb.com/products/c3-tangerine-switch?_pos=1&_sid=eb72c65cd&_ss=r)
 - [Alpacas](https://ilumkb.com/products/alpaca-linears?_pos=1&_sid=ca4aad503&_ss=r)
-
 
 I made a [Youtube Playlist](https://www.youtube.com/playlist?list=PLRE2bmTCbJUZVjJ9zz9qzM2X1tIJVyIhU) to cross them down.
 
