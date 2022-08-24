@@ -12,20 +12,20 @@ What I want to achieve in my life.
 1. Somehow make enough money myself to move out (Unlikely)
 2. Get a job abroad somehow (less likely)
 3. Scholarships (more likely)
+4. Job relocation sponsors (depends on my skills)
 
 #### Countries I want go
-- BEAUTIFUL
-  - nice trains
-    - [Netherlands](netherlands.md)
-    - Norway 
-    - Switzerland 
-    - Sweden 
-  - New Zealand (Friendly People)
-- GOOD
+- **I'll die happy**
+	- Netherlands
+	- Norway 
+	- Switzerland 
+	-  Sweden
+    - New Zealand (Friendly People)
+- **Good**
   - Australia
   - Singapore
   - Canada (Friendly People)
-- [NO OTHER CHOICE](blogs/nogo.md)
+- **No other Choice**
   - USA
   - England
   - China
