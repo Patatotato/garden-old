@@ -16,15 +16,15 @@ What I want to achieve in my life.
 #### Countries I want go
 - BEAUTIFUL
   - nice trains
-    - [Netherlands](blogs/netherlands.md)
+    - [Netherlands](netherlands.md)
     - Norway 
     - Switzerland 
     - Sweden 
   - New Zealand (Friendly People)
 - GOOD
   - Australia
-  - Canada (Friendly People)
   - Singapore
+  - Canada (Friendly People)
 - [NO OTHER CHOICE](blogs/nogo.md)
   - USA
   - England
