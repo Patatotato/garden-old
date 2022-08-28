@@ -9,6 +9,7 @@ What I want on my custom keyboard
 ### Prebuilt
 - [Keychron Q1 ( Shell White )](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard?variant=39899009122393)
 - [Keychron V1](https://www.keychron.com/products/keychron-v1-qmk-via-custom-mechanical-keyboard)
+- [NuPhy Air75 ultra-slim Wireless Mechanical Keyboard for Mac](https://nuphy.com/products/air75?variant=39572216119405)
 - [Logitech MX Mechanical](https://www.logitech.com/th-th/products/keyboards/mx-mechanical.html)
 ### Keycaps
 - [Salmon](https://shopee.co.th/135-คีย์-Salmon-Keycap-MDA-Profile-PBT-Dye-Sub-เชิงกล-คีย์บอร์ด-Keycaps-i.502998302.13687096581?sp_atk=2ba6d836-1b7f-402e-9229-a69d3e875936&xptdk=2ba6d836-1b7f-402e-9229-a69d3e875936)
