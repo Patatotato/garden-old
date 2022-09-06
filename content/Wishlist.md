@@ -25,6 +25,7 @@ What I'd buy if I have the money to do so.
 - [Divoom Ditoo](https://divoom.com/products/divoom-ditooplus)
 - [Elgato Streamdeck](https://www.elgato.com/en)
 - [Go XLR](https://www.tc-helicon.com/product.html?modelCode=P0CQK)
+- [Synology NAS](https://www.synology.com/en-global)
 -  [Clockwork Gameshell](https://www.clockworkpi.com/gameshell)
 -  [VR Oculus](https://store.facebook.com/quest/)
 
