@@ -15,6 +15,7 @@ What I'd buy if I have the money to do so.
 -  Macbook ( Macbook Air M2 / Macbook Pro M1 )
 - Microphone
 	- HyperX Quadcast ( Quadcast S for RGB )
+	- [FIFINE AmpliGame A8 USB Mic](https://fifinemicrophone.com/products/fifine-ampligame-a8)
 	- Blue Yeti?
 -  Phone
 	- S22
