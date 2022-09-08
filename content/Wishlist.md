@@ -26,6 +26,7 @@ What I'd buy if I have the money to do so.
 - [Elgato Streamdeck](https://www.elgato.com/en)
 - [Go XLR](https://www.tc-helicon.com/product.html?modelCode=P0CQK)
 - [Synology NAS](https://www.synology.com/en-global)
+- [Spotify Car Thing](https://carthing.spotify.com/)
 -  [Clockwork Gameshell](https://www.clockworkpi.com/gameshell)
 -  [VR Oculus](https://store.facebook.com/quest/)
 
