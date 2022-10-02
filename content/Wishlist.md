@@ -17,7 +17,8 @@ What I'd buy if I have the money to do so.
 	- HyperX Quadcast ( Quadcast S for RGB )
 	- [FIFINE AmpliGame A8 USB Mic](https://fifinemicrophone.com/products/fifine-ampligame-a8)
 	- Blue Yeti?
--  Phone
+- Phone
+		- Wireless Charger
 	- S22
 	- iPhone
 - Second Monitor
