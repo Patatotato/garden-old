@@ -26,6 +26,7 @@ What I'd buy if I have the money to do so.
 -  [new keyboard](keyboard.md)
 - [Cult of the Lamb](https://www.cultofthelamb.com/)
 - [Wacom Intuos Pro](https://www.wacom.com/th-th/products/wacom-intuos-pro)
+- [USB-A YubiKey 5 NFC](https://www.yubico.com/th/product/yubikey-5-nfc/)
 - [Divoom Ditoo](https://divoom.com/products/divoom-ditooplus)
 - [Elgato Streamdeck](https://www.elgato.com/en)
 - [Go XLR](https://www.tc-helicon.com/product.html?modelCode=P0CQK)
